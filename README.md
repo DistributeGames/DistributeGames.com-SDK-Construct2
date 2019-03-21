@@ -1,5 +1,5 @@
-# DistributeGames.com-SDK
-This repository contains the DistributeGames.com SDK for HTML5 games. This allows you to display advertisements in the games published within the DistributeGames.com network. https://DistributeGames.com
+# DistributeGames.com-SDK Construct 2
+This repository contains the DistributeGames.com SDK for HTML5 Construct 2 games. This allows you to display advertisements in the games published within the DistributeGames.com network. https://DistributeGames.com
 
 
 # STEP 1:
