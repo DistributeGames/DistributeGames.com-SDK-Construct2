@@ -1,4 +1,4 @@
-<p><img src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4g">         <img src="https://distributegames.com/images/construct2logo.png" width="100" alt="" data-canonical-src="https://distributegames.com/images/construct2logo.png"></p>
+<span><img src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4g"></span>         <span><img src="https://distributegames.com/images/construct2logo.png" width="100" alt="" data-canonical-src="https://distributegames.com/images/construct2logo.png"></span>
 
 # DistributeGames.com-SDK Construct 2
 This repository contains the DistributeGames.com SDK for HTML5 Construct 2 games. This allows you to display advertisements in the games published within the DistributeGames.com network. https://DistributeGames.com
