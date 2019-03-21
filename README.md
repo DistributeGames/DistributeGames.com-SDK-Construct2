@@ -1,4 +1,4 @@
-<img src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4g">  &nbsp;&nbsp; 
+<img src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4g">  &nbsp;&nbsp; &nbsp; &nbsp;
 <img src="https://distributegames.com/images/construct2logo.png" width="100" alt="" data-canonical-src="https://distributegames.com/images/construct2logo.png">
 
 # DistributeGames.com-SDK Construct 2
