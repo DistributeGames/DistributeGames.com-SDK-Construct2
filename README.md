@@ -21,11 +21,11 @@ Click 'DistributeGames' and insert your GameId in from your account on game
 
 # STEP 5:
 Double click the GRAY area to create an event to be tied with an advertisement request. You can also tie the following steps to an existing event in your game flow.
-<p><img src="https://distributegames.com/images/construct2/step_3.png"  width="800" alt=""></p>
+<p><img src="https://distributegames.com/images/construct2/step3.png"  width="800" alt=""></p>
 
 # STEP 6:
 Choose 'Init SDK' as an action to tie to an event in your game flow.
-<p><img src="https://distributegames.com/images/construct2/step_2.png"  width="800" alt=""></p>
+<p><img src="https://distributegames.com/images/construct2/step2.png"  width="800" alt=""></p>
 
 # STEP 7:
 You can now call the 'Show Banner' action - whenever and as often as you want. We will make sure to reject any premature calls.
