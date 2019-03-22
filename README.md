@@ -6,8 +6,8 @@ This repository contains the DistributeGames.com SDK for HTML5 Construct 2 games
 
 # STEP 1:
 Download the plugin and extract the file to C:\Program Files\Construct 2\exporters\html5\plugins
-Read here: https://distributegames.com/sdk
-Download here: https://drive.google.com/file/d/14i-5GiS18akqbeEzFTcnOuA4H0WAkHmf/
+<p>Read here: https://distributegames.com/sdk</p>
+<p>Download here: https://drive.google.com/file/d/14i-5GiS18akqbeEzFTcnOuA4H0WAkHmf/</p>
 
 # STEP 2:
 Select the new plugin within Construct 2 by right-clicking on Object Types and insert your gameId in the properties tab.
