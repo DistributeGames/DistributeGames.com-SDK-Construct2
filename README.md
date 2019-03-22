@@ -35,6 +35,7 @@ You can now call the 'Show Banner' action - whenever and as often as you want. W
 # TIPS - Pause/Resume events
 Add events for pause and resume game. You have to stop your game and mute all sound & music when you see an advertisement.
 
+# Support:
 If you have any technical questions or comments, please email us at:
 info@distributegames.com
 
