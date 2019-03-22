@@ -13,6 +13,7 @@ You can find these values within your DistributeGames control panel after creati
 
 # STEP 3:
 Right-click Object types in the 'Projects' tab, select Insert New Object and select 'DistributeGames' in the 'Monetization' category.
+<p><img src="https://distributegames.com/images/construct2/step1.png" alt=""></p>
 
 # STEP 4:
 Click 'DistributeGames' and insert your GameId in from your account on game
