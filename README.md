@@ -35,6 +35,10 @@ You can now call the 'Show Banner' action - whenever and as often as you want. W
 # TIPS - Pause/Resume events
 Add events for pause and resume game. You have to stop your game and mute all sound & music when you see an advertisement.
 
+# FAQ
+<p>How to upload a game files?</p>
+<p><b>Answer</b>: When your game is ready to upload, you need to compress all game files to .ZIP file - Root folder of .ZIP file must include index.html and game files</p>
+
 # Support:
 If you have any technical questions or comments, please email us at:
 info@distributegames.com
