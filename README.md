@@ -38,6 +38,8 @@ Add events for pause and resume game. You have to stop your game and mute all so
 # FAQ
 <p>How to upload a game files?</p>
 <p><b>Answer</b>: When your game is ready to upload, you need to compress all game files to .ZIP file - Root folder of .ZIP file must include index.html and game files</p>
+<p><b>Implementation self-hosted games.</b></p>
+<p>In the case where a developer wants to self-host their game, please contact us on at: info@distributegames.com</p>
 
 # Support:
 If you have any technical questions or comments, please email us at:
